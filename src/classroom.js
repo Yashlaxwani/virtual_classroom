@@ -2,7 +2,7 @@ class Classroom {
     constructor(name) {
       this.name = name;
       this.students = {};
-      this.assignments = [];
+      this.assignments = []];
     }
   
     addStudent(student) {
